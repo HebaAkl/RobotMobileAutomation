@@ -1,4 +1,4 @@
-# RobotMobileProject-Guru99
+# RobotMobileProject
 
 To start Robot Framework with appium for mobile automation testing:
 
@@ -20,5 +20,4 @@ https://codeforgeek.com/install-atom-editor-ubuntu-14-04/
 Robot Plugins for Atom editor:
 
 https://www.quora.com/What-is-the-best-IDE-for-Robot-Framework-considering-RIDE-has-issues-with-Mac-OS
-# RobotMobileAutomation
-# RobotMobileAutomation
+
