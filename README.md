@@ -21,3 +21,12 @@ Robot Plugins for Atom editor:
 
 https://www.quora.com/What-is-the-best-IDE-for-Robot-Framework-considering-RIDE-has-issues-with-Mac-OS
 
+
+
+- Install Guru99 App to Emulator
+adb install FileName.apk
+
+- Download Guru99 APK 
+https://apkpure.com/guru99-testing-sap-interview/com.vector.guru99
+
+
